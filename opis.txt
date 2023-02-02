@@ -1,0 +1,4 @@
+-Zaprojektować aplikację
+-Wybrać technologię
+-Opracować
+-testowanie
