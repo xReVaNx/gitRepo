@@ -2,3 +2,4 @@
 -Wybrać technologię
 -Opracować
 -testowanie
+-Wdrażanie
