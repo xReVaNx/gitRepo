@@ -3,3 +3,5 @@
 -Opracować
 -testowanie
 -Wdrażanie
+-Korzyści
+-Poprawa błędów
