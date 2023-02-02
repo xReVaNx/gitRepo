@@ -1,7 +1,11 @@
 -Zaprojektować aplikację
 -Wybrać technologię
 -Opracować
+<<<<<<< HEAD
 -testowanie
 -Wdrażanie
 -Korzyści
 -Poprawa błędów
+=======
+-testowanie
+>>>>>>> parent of c5fbdf6 (Second changes)

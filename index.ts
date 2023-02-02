@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import { useState } from 'react';
 
@@ -9,6 +10,11 @@ const [state, setState] = useState(true);
 	<h1>{text}</h1>
 	</div>
 	)
+=======
+const func = (): boolean => {
+	console.log("Hello World");
+	return true;
+>>>>>>> parent of c5fbdf6 (Second changes)
 }
 
-export default func;
+func();
