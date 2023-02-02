@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react';
 import { useState } from 'react';
 
@@ -11,6 +12,8 @@ const [state, setState] = useState(true);
 	</div>
 	)
 =======
+=======
+>>>>>>> parent of c5fbdf6 (Second changes)
 const func = (): boolean => {
 	console.log("Hello World");
 	return true;
